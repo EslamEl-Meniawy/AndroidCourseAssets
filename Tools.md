@@ -11,6 +11,3 @@ http://developer.android.com/sdk/index.html#Requirements
 
 ###Genymotion
 https://www.genymotion.com/
-
-###Git
-https://git-scm.com/downloads
